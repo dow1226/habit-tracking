@@ -1,1 +1,13 @@
+certifi==2023.7.22
+charset-normalizer==3.2.0
+comtypes==1.2.0
+DateTime==5.2
+idna==3.4
+pypiwin32==223
 python-dotenv==1.0.0
+pyttsx3==2.90
+pytz==2023.3.post1
+pywin32==306
+requests==2.31.0
+urllib3==2.0.5
+zope.interface==6.0
